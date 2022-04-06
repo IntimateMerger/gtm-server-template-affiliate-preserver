@@ -1,0 +1,4 @@
+homepage: "https://corp.intimatemerger.com"
+versions:
+  - sha: f4bfb08a1a80600bd18f24f2959b13982fc5e9f1
+    changeNotes: Initial release.
